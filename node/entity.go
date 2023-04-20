@@ -8,7 +8,3 @@ type Block struct {
 	PrevHash  string
 	Validator string
 }
-
-func printBlock() {
-	println("New Block created")
-}
